@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="7.3">
+<file name="/Users/sundeep/presto/presto/presto-sqlserver/src/main/java/com/facebook/presto/plugin/sqlserver/SqlServerClient.java">
+</file>
+<file name="/Users/sundeep/presto/presto/presto-sqlserver/src/main/java/com/facebook/presto/plugin/sqlserver/SqlServerClientModule.java">
+</file>
+<file name="/Users/sundeep/presto/presto/presto-sqlserver/src/main/java/com/facebook/presto/plugin/sqlserver/SqlServerPlugin.java">
+</file>
+<file name="/Users/sundeep/presto/presto/presto-sqlserver/src/test/java/com/facebook/presto/plugin/sqlserver/TestSqlServerPlugin.java">
+</file>
+</checkstyle>
